@@ -1,0 +1,128 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(255, 255, 255);
+    
+    
+}
+
+#main{
+    text-align: center;
+    background-color:rgb(92, 109, 161);
+    margin:10px;
+    border-radius: 10px;
+}
+
+.banner{
+    padding-top: 40px;
+}
+
+
+#title{
+    padding: 15px;
+    font-weight: 800;
+    
+    
+}
+
+#main > p {
+padding-bottom: 15px;
+margin: auto;
+font-size: 1rem;
+max-width: 75%;
+margin-bottom: 5vw;
+}
+
+
+#img-div{
+    background-color:rgb(120, 141, 201);
+    margin:auto;
+   max-width: 100%;
+   margin-top: 25px;
+}
+
+
+#image{
+    max-width: 90%;
+    max-height: 90%;
+    padding: 30px 0px 15px 0px;
+    margin:auto;
+    border-radius: 50px;
+}
+#img-caption{
+    padding:0px 0 15px 0;
+    margin:auto;
+}
+
+.life{
+    text-align: center;
+    padding-top: 10px;
+    max-width: 75%;
+    margin: auto;
+    font-size: .9rem;
+    padding-bottom: 50px;
+}
+
+.life-title{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 15px;
+    text-decoration: underline;
+    padding-top: 50px;
+    
+
+}
+
+.bold{
+    font-weight: 600;
+}
+
+
+ul{
+    list-style-position: inside;
+}
+
+
+#tribute-info>li{
+    padding: 15px;
+    max-width: 600px;
+    margin: auto;
+    
+   
+}
+
+.quote{
+    margin: auto;
+    font-style: italic;
+    border: 1px solid white;
+    padding:10px;
+    max-width: 55%;
+}
+
+#quoteText{
+    max-width: 85%;
+    margin: auto;
+    font-size: 1.20rem;
+}
+
+#quoteAuthor{
+    padding: 5px;
+}
+
+.wiki{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 1.25rem;
+    max-width: 85%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+a{
+    color:blue
+}
